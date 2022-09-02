@@ -1,0 +1,11 @@
+ERROR:root:exception occcure
+Traceback (most recent call last):
+  File "C:\Users\admin\PycharmProjects\pythonProject1 captain amirika\Logging.py", line 119, in <module>
+    c=a/b
+ZeroDivisionError: division by zero
+
+DEBUG:root:exception occcure
+Traceback (most recent call last):
+  File "C:\Users\admin\PycharmProjects\pythonProject1 captain amirika\Logging.py", line 119, in <module>
+    c=a/b
+ZeroDivisionError: division by zero

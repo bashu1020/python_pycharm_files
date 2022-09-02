@@ -1,0 +1,5 @@
+DEBUG:root:im aa debug
+INFO:root:im info
+WARNING:root:im warning
+ERROR:root:im error
+CRITICAL:root:im critical
