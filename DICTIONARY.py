@@ -1,7 +1,7 @@
 # CREATE DICTIONARY:
 #
 # d={}  or d=dict()      d={key:value,key:value}
-#
+######### for just change
 # d={}
 # d[100]="baswaraj"
 # d[200]="sadashiv"
